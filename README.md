@@ -14,9 +14,9 @@ Analyzed retail sales data using Tableau to identify monthly sales trends, produ
 - Interactive filters for year, category, and region.
 
 ## Key Findings
-- Technology was the highest-sales category in most regions.
-- Furniture had the highest sales in the West region.
-- Interactive filters allow users to explore business performance across different time periods and categories.
+- Technology was the highest-sales category in most regions, while Furniture led in the West.
+- Identified differences in sales and profitability across regions and product categories.
+- Used interactive filters to explore how sales performance changed across years, categories, and regions.
 
 ## Skills Demonstrated
 - Data visualization
